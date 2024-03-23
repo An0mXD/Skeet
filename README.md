@@ -1,2 +1,1 @@
-# This is the resolver of skeet from the last dump!   have fun pasting this shit 
-/* This shit is useless	*/
+# A Complete colection of files and parts of the source code of Skeet.cc/Gamesense.pub reversed from dumps.
