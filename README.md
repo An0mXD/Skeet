@@ -1,6 +1,6 @@
 # A Complete colection of files and parts of the source code of Skeet.cc/Gamesense.pub reversed from dumps.
 
-#i take little to no credit for all this.
+# i take little to no credit for all this.
 
 https://gamesense.pub
 
